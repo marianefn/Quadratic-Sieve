@@ -1,2 +1,2 @@
-# Thesis-QS-and-Product-Subset
+# Quadratic Sieve factorization algorithm
 Implemetation of the quadratic sieve algorithm with product subset 
